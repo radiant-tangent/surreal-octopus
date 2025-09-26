@@ -2,7 +2,7 @@
 Class Project ITEC-810 PFM
 
 ## Getting Started
-- Ensure Python 3.12 is install on your device
+- Ensure Python 3.12 or above is installed on your device
 - Clone the repo
 - Create a virtual environment `python3 -m venv .venv`
     - On Linux/Mac - Activate the virtual environment `source .venv/bin/activate`
